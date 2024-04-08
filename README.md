@@ -1,6 +1,6 @@
 # ABM-assignment
 
-##Virus on Network##
+#Virus on Network
 
 
 I chose to replicate the “Virus on Network” model, which I think is a foundational example within agent-base modeling field. This model simulates the spread of virus through the random selected population. The core purpose of this model is to explore the dynamics of infectious disease like the pandemic we just experienced two years ago within a networked community, demonstrating how individual behaviors and network structures. The model allows for a more complex interactions and the emergent patterns of virus transmission, recovery, and resistance.
